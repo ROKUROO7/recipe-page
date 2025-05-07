@@ -17,16 +17,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 Desktop Screenshot
 
-![Desktop](./screenshot/Desktop.jpeg)
+![Desktop](screenshot/Desktop.jpeg)
 
 Mobile Screenshot
 
-![mobile](./screenshot/mobile.png)
+![mobile](screenshot/mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rokuroo7.github.io/recipe-page/](https://rokuroo7.github.io/recipe-page/)
 
 ## My process
 
