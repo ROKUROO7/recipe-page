@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 5em;
+  padding: 8em;
   background-color: var(--Stone100);
 }
 main {
@@ -42,7 +42,7 @@ main {
   flex-direction: column;
   row-gap: 1.8em;
   padding: 2em;
-  max-width: 70%;
+  max-width: 58%;
   border-radius: 1.5em;
   background-color: var(--White);
 }
