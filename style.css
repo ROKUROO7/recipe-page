@@ -42,7 +42,7 @@ main {
   flex-direction: column;
   row-gap: 1.8em;
   padding: 3em;
-  max-width: 55%;
+  max-width: 50%;
   border-radius: 1.5em;
   background-color: var(--White);
 }
